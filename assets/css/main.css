@@ -3043,7 +3043,7 @@ input, select, textarea {
 			-moz-transition: -moz-transform 1.5s ease, opacity 2s ease;
 			-webkit-transition: -webkit-transform 1.5s ease, opacity 2s ease;
 			-ms-transition: -ms-transform 1.5s ease, opacity 2s ease;
-			transition: transform 1.5s ease, opacity 2s ease;
+			transition: transform 1s ease, opacity 2s ease;
 			-moz-transition-delay: 0.25s;
 			-webkit-transition-delay: 0.25s;
 			-ms-transition-delay: 0.25s;
@@ -3061,7 +3061,7 @@ input, select, textarea {
 				-moz-transition: -moz-transform 1.25s ease;
 				-webkit-transition: -webkit-transform 1.25s ease;
 				-ms-transition: -ms-transform 1.25s ease;
-				transition: transform 1.25s ease;
+				transition: transform 1s ease;
 				-moz-transition-delay: 1s;
 				-webkit-transition-delay: 1s;
 				-ms-transition-delay: 1s;
